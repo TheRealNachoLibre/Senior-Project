@@ -1,0 +1,16 @@
+* {
+    font-family: ui-monospace;
+    font-size: 1em;
+}
+
+a.navbar-brand {
+    font-family: ui-rounded;
+    font-weight: bold;
+}
+
+#header {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: lightcyan;
+    color: black;
+}
